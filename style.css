@@ -1,0 +1,391 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  
+  body{
+  
+      background-color: black;
+  }
+    .navbar{
+
+
+        background-color: blueviolet;
+        padding: ;
+    }
+  
+  button{
+      padding: 30;
+      background-color: aqua;
+      
+      margin:30;
+  }
+  button:hover{
+    background-color: #e60073;
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   .glow {
+      font-size: 80px;
+      color: #fff;
+      text-align: center;
+      -webkit-animation: glow 1s ease-in-out infinite alternate;
+      -moz-animation: glow 1s ease-in-out infinite alternate;
+      animation: glow 1s ease-in-out infinite alternate;
+    }
+    
+    @-webkit-keyframes glow {
+      from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+      }
+      
+      to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+      }
+    }
+  
+  .glow:hover{
+      background-color: darkmagenta;
+      padding: 10;
+      margin: 90;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+   .header{
+       background-color: blueviolet;
+      padding: 30 39;
+       margin:90;
+       width: 490;
+       height: 340;
+  text-align: center; 
+  font-size: 30;
+  animation-name: zyad;
+  animation-duration: 5s;
+  
+  
+  
+  
+   }    
+   @keyframes zyad{
+       from{background-color:burlywood;}
+       to{background-color: black;}
+   } 
+   
+   p{
+     
+   
+      font-size: 80px;
+      color: #fff;
+      text-align: center;
+      -webkit-animation: glow 1s ease-in-out infinite alternate;
+      -moz-animation: glow 1s ease-in-out infinite alternate;
+      animation: glow 1s ease-in-out infinite alternate;
+    }
+    
+    @-webkit-keyframes p {
+      from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+      }
+      
+      to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+      }
+    }
+    p:hover{
+  
+      background-color: darkcyan;
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+       
+  
+  
+  
+  
+  .test{ 
+      
+      
+      width: 100px;
+    height: 100px;
+    background:blueviolet;
+    position: relative;
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+    text-align: center;
+  }
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+  }
+      
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .lam{
+  
+      background-color: blueviolet;
+      padding: 39 70;
+      margin:70 60;
+      width: 700;
+      height: 01008;
+      font-size: 28;
+      
+  }
+      
+  .lam h2{
+  
+      font-size:20;
+  }
+  
+      
+  .lam:hover{
+      background-color: black;
+  } 
+      
+      .lam h5:hover{
+  color: yellow;
+          background-color:orchid;
+          font-size: x-large;
+          font-style: oblique;
+          margin: 70;
+      }
+      
+      
+   
+      
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .top{
+  
+    background-color: blueviolet;
+    padding:70 70;
+    margin:40 56;
+    width: 500;
+    height: 01000;
+    font-size: 15;
+    
+  }
+     
+    
+  .top:hover{
+    background-color: black;
+    color: yellow;
+    text-shadow: blue;
+    
+    font-size: large;
+  } 
+  
+  
+     .top.h33:hover{
+  
+  font-size: large;
+      background-color: cyan;
+     }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+     .home{
+     
+      background-color: blueviolet;
+      height: 780;
+      width: 650;
+    
+  }
+  
+  .home:hover{
+    background-color:black;
+    font-size: x-large;
+    color: yellow;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .viv{
+     
+    background-color: blueviolet;
+    height: 1000;
+    width: 650;
+  
+  }
+  
+  .viv:hover{
+  background-color:black;
+  font-size: x-large;
+  color: yellow;
+  }
+  
+  
